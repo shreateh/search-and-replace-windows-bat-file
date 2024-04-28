@@ -3,8 +3,11 @@
 Batch Script for Search and Replace Operation
 Copyright (c) [https://khalil-shreateh.com/links]
 
+**READ** : 
+https://khalil-shreateh.com/khalil.shtml/computer/42113-effortlessly-search-and-replace-with-batch-scripts-on-windows.html
+
 **Description**:
-- This batch file searches all TXT files inside the current folder and replaces text inside each file based on user input
+- This batch file searches all files inside the current folder and replaces text inside each file based on user input
 
 **Before You Begin:**
 - Locate the script: Download the search_and_replace.bat script and save it to a convenient location on your computer. (Tip: Consider creating a dedicated folder for your scripts to keep things organized.)
